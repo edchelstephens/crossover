@@ -1,0 +1,1 @@
+1. How can we catch the players into a discipleship group?
