@@ -74,8 +74,15 @@ he will be moved to the next game instead.
 But since there will be early/late people, then this would vary.
 Early players will be prioritized if same2x na ang number of games played sa mga players
 
+ℹ️ Player Listing
 
+1️⃣ On 3 hours game day: Max 30 Players. 
+   On 4 hours game day: Max 35 Players
 
+❌ Dli ta pwede mag reserve ug slot kung dli sure. 
 
+❌ Dili sab ta pwd mag list sa spot para lang ma secure ang slot pero wala kabalo ang mga players nga enlisted nga g.lista cla apil.
 
+▶️ We will also be changing our cut off listing time to Friday @7pm 🕥 
 
+▶️ Mas better ni kay para sure gyud nga mutunga ang mga nag commit nga nag.enlist sa game ✅
