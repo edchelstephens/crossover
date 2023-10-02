@@ -65,20 +65,20 @@ Attendance:
 2. Fitz
 3. Christian
 4. Sherwin
-5. Tom
-6. Thomas
-7. Rod
-8. John Biol
-9. Alfred
-10. Joseph
-11. Rafols
-12. Rani 
-13. Bj
-14. Christian Bete
-15. Magbanua
-16. Tony
-17. Yves
-18. 
+5. Thomas
+6. Rod
+7. John Biol
+8. Alfred
+9. Joseph
+10. Rafols
+11. Rani
+12. Bj 
+13. Christian Bete
+14. Magbanua
+15. Tony
+16. Yves
+17. G-han
+18. Alex
 19. 
 20. 
 21.
