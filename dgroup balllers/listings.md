@@ -56,7 +56,7 @@ Max Players:30
 
 
 Game day: Saturday
-Time: 1pm - 4:00pm
+Time: 1pm - 5:00pm
 Venue: Marco
 
 Attendance:
