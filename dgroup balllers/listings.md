@@ -42,7 +42,7 @@ Attendance:
 List your names. 
 Clear your name if dili kadayun.
 
-Cut off time for canceling is Friday @7pm - For determining low prio - listed but did not attend did not cancel before cut off
+Cut off time for canceling is Friday @7pm - For determining low prio - listed but did not attend or did not cancel before cut off
 
 
 Max Players:30
@@ -96,7 +96,7 @@ Attendance:
 List your names. 
 Clear your name if dili kadayun.
 
-Cut off time for canceling is Friday @7pm - For determining low prio - listed but did not attend did not cancel before cut off
+Cut off time for canceling is Friday @7pm - For determining low prio - listed but did not attend or did not cancel before cut off
 
 
 Max Players:35
