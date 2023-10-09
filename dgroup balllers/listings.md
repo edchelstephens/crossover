@@ -100,3 +100,13 @@ Cut off time for canceling is Friday @7pm - For determining low prio - listed bu
 
 
 Max Players:35
+
+
+
+# Pic Credit
+
+Thank you for last week mga bro! Good game! 🏀
+
+Thanks bro @Tony Echem  for facilitating! Thanks @Meg Leslie Yu  for the pic! 🙂🙏
+
+This week npod! Will be posting @ 7:30pm! 💯
