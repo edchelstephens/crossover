@@ -10,17 +10,17 @@ Attendance:
 1. Dodot
 2. Fitz
 3. Christian
-4. Thomas
-5. Rod
-6. John Biol
-7. Alfred
-8. Joseph
-9. Rafols
-10. Rani 
-11. Bj
-12. Christian Bete 
-13. Magbanua
-14. 
+4. Sherwin
+5. Thomas
+6. Rod
+7. John Biol
+8. Alfred
+9. Joseph
+10. Rafols
+11. Rani
+12. Bj 
+13. Christian Bete
+14. Magbanua
 15. 
 16. 
 17. 
