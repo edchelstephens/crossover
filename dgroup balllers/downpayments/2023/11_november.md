@@ -1,6 +1,6 @@
 # Marco Text
-Nov 4,  1pm - 5pm
-Nov 18, 1pm - 5pm
+Nov 4, 1-5pm
+Nov 18, 1-5pm
 
 
 # Schedule
