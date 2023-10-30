@@ -11,7 +11,7 @@ Attendance:
 2. Fitz
 3. Christian
 4. Sherwin
-5. Thomas
+5. Tomas
 6. Rod
 7. John Biol
 8. Alfred
@@ -61,7 +61,7 @@ Attendance:
 2. Fitz
 3. Christian
 4. Sherwin
-5. Thomas
+5. Tomas
 6. Rod
 7. John Biol
 8. Alfred
@@ -72,9 +72,9 @@ Attendance:
 13. Christian Bete
 14. Magbanua
 15. Tony
-16. Yves
-17. G-han
-18. Alex
+16. G-han
+17. Alex
+18. 
 19. 
 20. 
 21.
