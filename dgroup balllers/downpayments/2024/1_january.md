@@ -1,10 +1,9 @@
 # January 2024 
-# Tentative Schedule (Assuming B1G won't resume until Feb, we can do 4 hours per week)
-# To be paid in Dec 16,2023 to secure
+
 Jan 6,  1pm - 5pm     - 4 hrs
 Jan 13, 1pm - 5pm     - 4 hrs
 Jan 20, 1pm - 5pm     - 4 hrs
-Jan 27, 1pm - 5pm     - 4 hrs
+Jan 27, 1pm - 5pm     - 4 hrs -> Tentative, Dodot and Joy will join IDC
 
 # Downpayment
 Total Hours: 16 hrs
