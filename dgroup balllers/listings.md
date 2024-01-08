@@ -60,20 +60,20 @@ Attendance:
 1. Dodot
 2. Fitz
 3. Christian
-4. Sherwin
-5. Tomas
-6. Rod
-7. John Biol
-8. Alfred
-9. Joseph
-10. Rafols
-11. Rani
-12. Bj 
-13. Christian Bete
-14. Magbanua
-15. Tony
-16. G-han
-17. Alex
+4. Tomas
+5. John Biol
+6. Alfred
+7. Joseph
+8. Rafols
+9. Rani
+10. Bj
+11. Christian Bete
+12. Magbanua 
+13. G-han
+14. Alex
+15. 
+16. 
+17. 
 18. 
 19. 
 20. 
