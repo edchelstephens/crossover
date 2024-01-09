@@ -69,8 +69,8 @@ Attendance:
 10. Bj
 11. Christian Bete
 12. Magbanua 
-13. G-han
-14. Alex
+13. 
+14. 
 15. 
 16. 
 17. 
