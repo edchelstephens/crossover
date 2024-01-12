@@ -1,13 +1,12 @@
 # January 2024 
 
-Jan 6,  1pm - 5pm     - 4 hrs
 Jan 13, 1pm - 5pm     - 4 hrs
 Jan 20, 1pm - 5pm     - 4 hrs
-Jan 27, 1pm - 5pm     - 4 hrs -> Tentative, Dodot and Joy will join IDC
+
 
 # Downpayment
-Total Hours: 16 hrs
-Total Payment: 16 * 600 = 9,600
-Dodot, Fitz Division = 9,600 / 2 = Php 4,800 each
+Total Hours: 8 hrs
+Total Payment: 8 * 600 = 4,800
+Dodot, Fitz Division = 4,800 / 2 = Php 2,400 each
 
 
